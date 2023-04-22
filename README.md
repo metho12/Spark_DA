@@ -1,4 +1,4 @@
-# spark_DA
+# Spark_DA
 Note: first four steps are common for environment setup using Pyspark in Google Colab.
 
 1.	Download and install openjdk-8
